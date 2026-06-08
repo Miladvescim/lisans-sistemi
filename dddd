@@ -1,8 +1,16 @@
 {
-  "version": "1.0",
-  "keys": [
-    "MILA-1234-5678",
-    "MILA-ABCD-EFGH",
-    "MILA-PREMIUM-9999"
-  ]
+  "version": "2.0",
+  "maintenance": false,
+  "keys": {
+    "MILA-1234": {
+      "user": "Test",
+      "expire": "2027-01-01",
+      "rank": "Premium"
+    },
+    "MILA-5678": {
+      "user": "Developer",
+      "expire": "2030-01-01",
+      "rank": "Owner"
+    }
+  }
 }
