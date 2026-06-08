@@ -1,1 +1,8 @@
-admin-ddss
+{
+  "version": "1.0",
+  "keys": [
+    "MILA-1234-5678",
+    "MILA-ABCD-EFGH",
+    "MILA-PREMIUM-9999"
+  ]
+}
