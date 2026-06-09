@@ -5,12 +5,26 @@
     "MILA-1234": {
       "user": "Test",
       "expire": "2027-01-01",
-      "rank": "Premium"
+      "rank": "Premium",
+      "enabled": true
     },
     "MILA-5678": {
       "user": "Developer",
       "expire": "2030-01-01",
-      "rank": "Owner"
+      "rank": "Owner",
+      "enabled": true
+    },
+    "MILA-DEMO78": {
+      "user": "DemoUser",
+      "expire": "2026-12-31",
+      "rank": "Premium",
+      "enabled": true
+    },
+    "MILA-TEST34": {
+      "user": "TestUser",
+      "expire": "2026-12-31", 
+      "rank": "Owner",
+      "enabled": true
     }
   }
 }
