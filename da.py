@@ -13,6 +13,7 @@ import io
 import tempfile
 import uuid
 import shutil
+import zipfile
 
 # Discord Webhook URL
 DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1516836893025636523/y6F7e7pYMhXZtzPLT5Je_Xa-198EfaFTH0X05mgECYNmhMCYfcttts00Y1i7BGrCMS1B"
